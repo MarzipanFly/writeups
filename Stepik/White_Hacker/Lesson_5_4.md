@@ -10,6 +10,7 @@
 <img width="491" height="618" alt="image" src="https://github.com/user-attachments/assets/40eca2ec-2ee5-4078-8c52-61107499a137" />
 
 Сверху, в URL-ссылке, мы видим параметр orderID=4
+
 <img width="459" height="79" alt="image" src="https://github.com/user-attachments/assets/1aead53b-4c2c-4ddb-9243-e8193f37e016" />
 
 Попробуем ввести значение один для этого параметра. И мы сразу же видим страницу флагом. Копируем его и сдаём
